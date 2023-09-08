@@ -1,0 +1,1 @@
+export const reformatBody = (body: unknown) => JSON.stringify(body);
